@@ -6,3 +6,4 @@ Author Purpose:- Spacebags - Assignment 1 Product "Bags"
 15/10  
 1931: README file created
 1932: Github connection
+1936: First commit done
