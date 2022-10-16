@@ -15,3 +15,4 @@ Author Purpose:- Spacebags - Assignment 1 Product "Bags"
 2005: Model page added BagsClass.cs
 2036: Class attribute added in Model class
 2111: Scaffold Done
+2112: Testing App done
