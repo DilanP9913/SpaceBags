@@ -24,3 +24,8 @@ Author Purpose:- Spacebags - Assignment 1 Product "Bags"
 2227: Seed Data added
 2245: Seed data updated to database
 
+17/10
+1010: Created img folder
+1012: Added image
+
+
