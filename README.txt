@@ -8,6 +8,7 @@ Author Purpose:- Spacebags - Assignment 1 Product "Bags"
 1932: Github connection
 1936: First commit done
 1938: sslport changed
+----------------------------------------------------------------------------------------------
 
 1941: Controller added Spacebags
 1953: Views added Spacebags
@@ -23,6 +24,7 @@ Author Purpose:- Spacebags - Assignment 1 Product "Bags"
 2141: Navigation added for the view
 2227: Seed Data added
 2245: Seed data updated to database
+-----------------------------------------------------------------------------------------------
 
 17/10
 1010: Created img folder
@@ -37,6 +39,8 @@ Author Purpose:- Spacebags - Assignment 1 Product "Bags"
 1030: Cpmpleted adding information in about us file
 1031: Tested app again 
 1033: Testing successful
-
+1032: started checking project for the last time
+1035: Project ready for submitting and was running perfectly good...
+-----------------------------------------------------------------------------------------------
 
 
