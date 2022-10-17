@@ -31,5 +31,12 @@ Author Purpose:- Spacebags - Assignment 1 Product "Bags"
 1015: Added Oswald font type
 1016: Tested app
 1018: App Testing successful
+1019: Started adding information in about us
+1020: First added image in about us
+1021: Then added some information about company
+1030: Cpmpleted adding information in about us file
+1031: Tested app again 
+1033: Testing successful
+
 
 
