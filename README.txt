@@ -27,5 +27,9 @@ Author Purpose:- Spacebags - Assignment 1 Product "Bags"
 17/10
 1010: Created img folder
 1012: Added image
+1014: Created font folder
+1015: Added Oswald font type
+1016: Tested app
+1018: App Testing successful
 
 
